@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">122278414047-ho6f91e78o4loecvminlnfoj36lrhiu3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">122278414047</string>
+    <string name="google_api_key" translatable="false">AIzaSyBR6ooBSxV9vwY8ge-8laifAh1A_y6zOco</string>
+    <string name="google_app_id" translatable="false">1:122278414047:android:dd4e671852cb7c0f850b6a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBR6ooBSxV9vwY8ge-8laifAh1A_y6zOco</string>
+    <string name="google_storage_bucket" translatable="false">finex-37cc6.appspot.com</string>
+    <string name="project_id" translatable="false">finex-37cc6</string>
+</resources>

@@ -1,0 +1,852 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:2:1-98:12
+MERGED from [androidx.databinding:viewbinding:8.5.0] C:\Users\VIVEK\.gradle\caches\transforms-4\44ecfde1c0eb1de6b0c3d010641c58f2\transformed\viewbinding-8.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\9c2bc36e5140030ac407730adf079c51\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-auth-ktx:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b29b465e60ffdf835600c780fa919f3c\transformed\firebase-auth-ktx-23.1.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8308af74e1e4a3a45dc1b7f70c1f8116\transformed\firebase-analytics-22.1.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:17:1-43:12
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c0c96b78cbe91807e7fe6fc7306adf2e\transformed\firebase-database-21.0.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b774a05fb1fc2dc7e1e6d35be4f9f03\transformed\firebase-installations-18.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\88a8944266f5229635ad275b344473bd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\ad65cc27d42703836005921d869bba91\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\537fdb875ccec5d7449a046d396bbf3f\transformed\googleid-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b7c9f9d75a733b4cc1df59a65f709e59\transformed\material-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\VIVEK\.gradle\caches\transforms-4\15e204f82e7c52932637b3db905d66a7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\VIVEK\.gradle\caches\transforms-4\d6fafaa1880b701285f03bc990d734e8\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\VIVEK\.gradle\caches\transforms-4\82af8e8663f4f82b1a211ba94435319f\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\7e02c50f5791827064df8fbbb87a4a8b\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\110b07a188e685ef054d7d8254ba9aa4\transformed\play-services-measurement-sdk-22.1.2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\0548fe288854dbef5da880ff7a24de08\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c91a08e88c65982bac1156e289662769\transformed\firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8297cbecc767ab1186b6293e0ed78eda\transformed\play-services-measurement-impl-22.1.2\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6b05c0f687cd2bd04159111d94ab506c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\be6f6807c1967d4488990aa533072a67\transformed\play-services-measurement-sdk-api-22.1.2\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\c2a7a0e58f31ca7537da23b7b364b0a0\transformed\play-services-measurement-base-22.1.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\VIVEK\.gradle\caches\transforms-4\bf92064f58da92b110716c9842e02deb\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\8a3ecb5d27cffaa5fb0fd22ba480389f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c262c74324fbfbaf14950eec43ffef3d\transformed\play-services-auth-20.7.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\VIVEK\.gradle\caches\transforms-4\00dbaceb7c5427b7260f3f31731aeab3\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\3931978b2da7b6a243237a494c4b79c2\transformed\recaptcha-18.5.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\VIVEK\.gradle\caches\transforms-4\e89c472f3dddbf31cfb0d6109ccc5f95\transformed\integrity-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\VIVEK\.gradle\caches\transforms-4\d5b91d3faa4c9511424b753b8d991211\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\e1fdb32a38fd2e48f66666f15a8e5c09\transformed\play-services-fido-20.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\VIVEK\.gradle\caches\transforms-4\76ee9cbdbfd9fa3f53c6b6480716c8a4\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\VIVEK\.gradle\caches\transforms-4\97f0a48f578381f92d614d5da2de97b3\transformed\play-services-base-18.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\VIVEK\.gradle\caches\transforms-4\98553bc97903cf5b86f042d728994365\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:15:1-19:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\VIVEK\.gradle\caches\transforms-4\a00e6c44a3111bfcf8042bb9d316e2d6\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\VIVEK\.gradle\caches\transforms-4\75ab52f86c344d64277baa57b2af2e28\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b72881304ee52b27cb1520cab1ed6d62\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\83c434178d2519cf7554be1e5ff3996c\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1c62dc3ae44de01fe28d6e71f0b28909\transformed\play-services-basement-18.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\VIVEK\.gradle\caches\transforms-4\3fcba5235e0cac9e8a5b87ece8bb3c0f\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\VIVEK\.gradle\caches\transforms-4\3027c751ff9091ddeda809edf1a70ac6\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\d0057e5fcb635f2b99a3d268435335db\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\85fabc075a1be090a78cb939ba5b4ede\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\7edbc4bd7d56091bc59069280d85105c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\0ffb857d70d034d6dd8b2d6e52bf6a66\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\4775f08ff510c717a80193e45f5c5cd3\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\a49d55c3e94d73a84b68b88239619cef\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\fe1e303e0772b62c6c14c14abd8e2268\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\VIVEK\.gradle\caches\transforms-4\e495b4d8eaf2a0cabb9a15b7a9b0eb5f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\a22abf7e1bf9b0c7f29696af67cf9114\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\558b092a8138d4da46ad7df99b78cc7e\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\7279bfc339751db0c7fb01e73e1a3b44\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\8cc5716527afad049d9897fe4e02221b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\3e5f1d5598d36f12fd15c23d7d02cfb6\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\28dd466c52372e7ca06eb4a9baa62759\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b8c4b080aaafd446a7236e79da7e1e5\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\VIVEK\.gradle\caches\transforms-4\06f60eea37f993cf6ba2399b99bca753\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\df05427b895ad27ec0fcb2402696d258\transformed\core-1.10.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\5f073209ed4223241c07651ae133e6f3\transformed\core-ktx-1.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\9d59ef9b49fcf7ce1566a3bd26059d77\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\VIVEK\.gradle\caches\transforms-4\e079e203d121f3fd3eeaaff9534b3bbf\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\0ba8dca380c23533e1eb2a5adba4cdbb\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\e7a24163e396e058c9e01bfad751fb19\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\7bbfe522e2776561e8b0e2649536f720\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\cff93e5dc8a50bd4ad77629de8f59e46\transformed\firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\dca7c2447dbe026b845c6d9d3616635d\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\VIVEK\.gradle\caches\transforms-4\d5a5e8c3a3948ecaf71dd1b87dfa7d8d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\VIVEK\.gradle\caches\transforms-4\da91a734f1bca6f6009a6e9a1d26745c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6500d915b45a5fee9e14d31dfe40cb81\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\cf2a9fd0d43127bef96110a714bd13bd\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\02c7252b26e3981bd302b3fc43b3c15c\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\02281eac68ab44f6e52ab295a0b23ec3\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1f4d5e981f9acf255dffad6133c61d71\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6ca63eeb09b5ee49006ba2d614cd04eb\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\53ece760cd099214d61b2efb438a9c28\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\VIVEK\.gradle\caches\transforms-4\cfb30e0fd780acfb8000dace9da7d9b8\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\VIVEK\.gradle\caches\transforms-4\03b7dde63c08a7f0ad4704e6ff4bb34b\transformed\core-common-2.0.3\AndroidManifest.xml:2:1-21:12
+	package
+		INJECTED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:5:5-96:19
+INJECTED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:5:5-96:19
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\9c2bc36e5140030ac407730adf079c51\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\9c2bc36e5140030ac407730adf079c51\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth-ktx:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b29b465e60ffdf835600c780fa919f3c\transformed\firebase-auth-ktx-23.1.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b29b465e60ffdf835600c780fa919f3c\transformed\firebase-auth-ktx-23.1.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8308af74e1e4a3a45dc1b7f70c1f8116\transformed\firebase-analytics-22.1.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8308af74e1e4a3a45dc1b7f70c1f8116\transformed\firebase-analytics-22.1.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c0c96b78cbe91807e7fe6fc7306adf2e\transformed\firebase-database-21.0.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c0c96b78cbe91807e7fe6fc7306adf2e\transformed\firebase-database-21.0.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b774a05fb1fc2dc7e1e6d35be4f9f03\transformed\firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b774a05fb1fc2dc7e1e6d35be4f9f03\transformed\firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\88a8944266f5229635ad275b344473bd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\88a8944266f5229635ad275b344473bd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b7c9f9d75a733b4cc1df59a65f709e59\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b7c9f9d75a733b4cc1df59a65f709e59\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\VIVEK\.gradle\caches\transforms-4\15e204f82e7c52932637b3db905d66a7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\VIVEK\.gradle\caches\transforms-4\15e204f82e7c52932637b3db905d66a7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\110b07a188e685ef054d7d8254ba9aa4\transformed\play-services-measurement-sdk-22.1.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\110b07a188e685ef054d7d8254ba9aa4\transformed\play-services-measurement-sdk-22.1.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\0548fe288854dbef5da880ff7a24de08\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\0548fe288854dbef5da880ff7a24de08\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c91a08e88c65982bac1156e289662769\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c91a08e88c65982bac1156e289662769\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8297cbecc767ab1186b6293e0ed78eda\transformed\play-services-measurement-impl-22.1.2\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8297cbecc767ab1186b6293e0ed78eda\transformed\play-services-measurement-impl-22.1.2\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6b05c0f687cd2bd04159111d94ab506c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6b05c0f687cd2bd04159111d94ab506c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\c2a7a0e58f31ca7537da23b7b364b0a0\transformed\play-services-measurement-base-22.1.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\c2a7a0e58f31ca7537da23b7b364b0a0\transformed\play-services-measurement-base-22.1.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\VIVEK\.gradle\caches\transforms-4\bf92064f58da92b110716c9842e02deb\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\VIVEK\.gradle\caches\transforms-4\bf92064f58da92b110716c9842e02deb\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\8a3ecb5d27cffaa5fb0fd22ba480389f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\8a3ecb5d27cffaa5fb0fd22ba480389f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c262c74324fbfbaf14950eec43ffef3d\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c262c74324fbfbaf14950eec43ffef3d\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\VIVEK\.gradle\caches\transforms-4\e89c472f3dddbf31cfb0d6109ccc5f95\transformed\integrity-1.3.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\VIVEK\.gradle\caches\transforms-4\e89c472f3dddbf31cfb0d6109ccc5f95\transformed\integrity-1.3.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\e1fdb32a38fd2e48f66666f15a8e5c09\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\e1fdb32a38fd2e48f66666f15a8e5c09\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\VIVEK\.gradle\caches\transforms-4\97f0a48f578381f92d614d5da2de97b3\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\VIVEK\.gradle\caches\transforms-4\97f0a48f578381f92d614d5da2de97b3\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\VIVEK\.gradle\caches\transforms-4\75ab52f86c344d64277baa57b2af2e28\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\VIVEK\.gradle\caches\transforms-4\75ab52f86c344d64277baa57b2af2e28\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b72881304ee52b27cb1520cab1ed6d62\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b72881304ee52b27cb1520cab1ed6d62\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\83c434178d2519cf7554be1e5ff3996c\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\83c434178d2519cf7554be1e5ff3996c\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1c62dc3ae44de01fe28d6e71f0b28909\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1c62dc3ae44de01fe28d6e71f0b28909\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\fe1e303e0772b62c6c14c14abd8e2268\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\fe1e303e0772b62c6c14c14abd8e2268\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\df05427b895ad27ec0fcb2402696d258\transformed\core-1.10.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\df05427b895ad27ec0fcb2402696d258\transformed\core-1.10.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\VIVEK\.gradle\caches\transforms-4\e079e203d121f3fd3eeaaff9534b3bbf\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\VIVEK\.gradle\caches\transforms-4\e079e203d121f3fd3eeaaff9534b3bbf\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\VIVEK\.gradle\caches\transforms-4\d5a5e8c3a3948ecaf71dd1b87dfa7d8d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\VIVEK\.gradle\caches\transforms-4\d5a5e8c3a3948ecaf71dd1b87dfa7d8d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\VIVEK\.gradle\caches\transforms-4\da91a734f1bca6f6009a6e9a1d26745c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\VIVEK\.gradle\caches\transforms-4\da91a734f1bca6f6009a6e9a1d26745c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\VIVEK\.gradle\caches\transforms-4\03b7dde63c08a7f0ad4704e6ff4bb34b\transformed\core-common-2.0.3\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\VIVEK\.gradle\caches\transforms-4\03b7dde63c08a7f0ad4704e6ff4bb34b\transformed\core-common-2.0.3\AndroidManifest.xml:11:5-19:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\df05427b895ad27ec0fcb2402696d258\transformed\core-1.10.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:10:9-30
+	android:fullBackupContent
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:8:9-54
+	tools:targetApi
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:13:9-29
+	android:icon
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:9:9-110
+	android:allowBackup
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:12:9-42
+	android:dataExtractionRules
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.madp.Post1Activity
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:18:13-42
+activity#com.example.madp.Post2Activity
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:21:9-23:40
+	android:exported
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:22:13-42
+activity#com.example.madp.Post3Activity
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:26:13-42
+activity#com.example.madp.PostEditActivity
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:29:9-31:40
+	android:exported
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:30:13-45
+activity#com.example.madp.ApplyJob1Activity
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:33:9-35:40
+	android:exported
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:34:13-46
+activity#com.example.madp.ApplyJob2Activity
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:37:9-39:40
+	android:exported
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:38:13-46
+activity#com.example.madp.ApplyJob3Activity
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:41:9-43:40
+	android:exported
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:42:13-46
+activity#com.example.madp.ApplyJobEditActivity
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:46:13-49
+activity#com.example.madp.Payment1Activity
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:49:9-51:40
+	android:exported
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:50:13-45
+activity#com.example.madp.Payment2Activity
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:53:9-55:40
+	android:exported
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:54:13-45
+activity#com.example.madp.EditPaymentActivity
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:57:9-59:40
+	android:exported
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:59:13-37
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:58:13-48
+activity#com.example.madp.DashboardActivity
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:61:9-63:40
+	android:exported
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:62:13-46
+activity#com.example.madp.EditActivity
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:65:9-67:40
+	android:exported
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:66:13-41
+activity#com.example.madp.LoginActivity
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:69:9-71:40
+	android:exported
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:71:13-37
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:70:13-42
+activity#com.example.madp.Register1Activity
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:73:9-75:40
+	android:exported
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:75:13-37
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:74:13-46
+activity#com.example.madp.Register2Activity
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:77:9-79:40
+	android:exported
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:79:13-37
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:78:13-46
+activity#com.example.madp.ProfileActivity
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:81:9-83:40
+	android:exported
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:83:13-37
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:82:13-44
+activity#com.example.madp.MainActivity
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:86:9-94:20
+	android:exported
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:88:13-36
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:87:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:89:13-93:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:90:17-69
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:90:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:92:17-77
+	android:name
+		ADDED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml:92:27-74
+uses-sdk
+INJECTED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.5.0] C:\Users\VIVEK\.gradle\caches\transforms-4\44ecfde1c0eb1de6b0c3d010641c58f2\transformed\viewbinding-8.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.5.0] C:\Users\VIVEK\.gradle\caches\transforms-4\44ecfde1c0eb1de6b0c3d010641c58f2\transformed\viewbinding-8.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\9c2bc36e5140030ac407730adf079c51\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\9c2bc36e5140030ac407730adf079c51\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b29b465e60ffdf835600c780fa919f3c\transformed\firebase-auth-ktx-23.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b29b465e60ffdf835600c780fa919f3c\transformed\firebase-auth-ktx-23.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8308af74e1e4a3a45dc1b7f70c1f8116\transformed\firebase-analytics-22.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8308af74e1e4a3a45dc1b7f70c1f8116\transformed\firebase-analytics-22.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c0c96b78cbe91807e7fe6fc7306adf2e\transformed\firebase-database-21.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c0c96b78cbe91807e7fe6fc7306adf2e\transformed\firebase-database-21.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b774a05fb1fc2dc7e1e6d35be4f9f03\transformed\firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b774a05fb1fc2dc7e1e6d35be4f9f03\transformed\firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\88a8944266f5229635ad275b344473bd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\88a8944266f5229635ad275b344473bd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\ad65cc27d42703836005921d869bba91\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\ad65cc27d42703836005921d869bba91\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\537fdb875ccec5d7449a046d396bbf3f\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\537fdb875ccec5d7449a046d396bbf3f\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b7c9f9d75a733b4cc1df59a65f709e59\transformed\material-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b7c9f9d75a733b4cc1df59a65f709e59\transformed\material-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\VIVEK\.gradle\caches\transforms-4\15e204f82e7c52932637b3db905d66a7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\VIVEK\.gradle\caches\transforms-4\15e204f82e7c52932637b3db905d66a7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\VIVEK\.gradle\caches\transforms-4\d6fafaa1880b701285f03bc990d734e8\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\VIVEK\.gradle\caches\transforms-4\d6fafaa1880b701285f03bc990d734e8\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\VIVEK\.gradle\caches\transforms-4\82af8e8663f4f82b1a211ba94435319f\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\VIVEK\.gradle\caches\transforms-4\82af8e8663f4f82b1a211ba94435319f\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\7e02c50f5791827064df8fbbb87a4a8b\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\7e02c50f5791827064df8fbbb87a4a8b\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\110b07a188e685ef054d7d8254ba9aa4\transformed\play-services-measurement-sdk-22.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\110b07a188e685ef054d7d8254ba9aa4\transformed\play-services-measurement-sdk-22.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\0548fe288854dbef5da880ff7a24de08\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\0548fe288854dbef5da880ff7a24de08\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c91a08e88c65982bac1156e289662769\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c91a08e88c65982bac1156e289662769\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8297cbecc767ab1186b6293e0ed78eda\transformed\play-services-measurement-impl-22.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8297cbecc767ab1186b6293e0ed78eda\transformed\play-services-measurement-impl-22.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6b05c0f687cd2bd04159111d94ab506c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6b05c0f687cd2bd04159111d94ab506c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\be6f6807c1967d4488990aa533072a67\transformed\play-services-measurement-sdk-api-22.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\be6f6807c1967d4488990aa533072a67\transformed\play-services-measurement-sdk-api-22.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\c2a7a0e58f31ca7537da23b7b364b0a0\transformed\play-services-measurement-base-22.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\c2a7a0e58f31ca7537da23b7b364b0a0\transformed\play-services-measurement-base-22.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\VIVEK\.gradle\caches\transforms-4\bf92064f58da92b110716c9842e02deb\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\VIVEK\.gradle\caches\transforms-4\bf92064f58da92b110716c9842e02deb\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\8a3ecb5d27cffaa5fb0fd22ba480389f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\8a3ecb5d27cffaa5fb0fd22ba480389f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c262c74324fbfbaf14950eec43ffef3d\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c262c74324fbfbaf14950eec43ffef3d\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\VIVEK\.gradle\caches\transforms-4\00dbaceb7c5427b7260f3f31731aeab3\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\VIVEK\.gradle\caches\transforms-4\00dbaceb7c5427b7260f3f31731aeab3\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\3931978b2da7b6a243237a494c4b79c2\transformed\recaptcha-18.5.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\3931978b2da7b6a243237a494c4b79c2\transformed\recaptcha-18.5.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\VIVEK\.gradle\caches\transforms-4\e89c472f3dddbf31cfb0d6109ccc5f95\transformed\integrity-1.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\VIVEK\.gradle\caches\transforms-4\e89c472f3dddbf31cfb0d6109ccc5f95\transformed\integrity-1.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\VIVEK\.gradle\caches\transforms-4\d5b91d3faa4c9511424b753b8d991211\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\VIVEK\.gradle\caches\transforms-4\d5b91d3faa4c9511424b753b8d991211\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\e1fdb32a38fd2e48f66666f15a8e5c09\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\e1fdb32a38fd2e48f66666f15a8e5c09\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\VIVEK\.gradle\caches\transforms-4\76ee9cbdbfd9fa3f53c6b6480716c8a4\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\VIVEK\.gradle\caches\transforms-4\76ee9cbdbfd9fa3f53c6b6480716c8a4\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\VIVEK\.gradle\caches\transforms-4\97f0a48f578381f92d614d5da2de97b3\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\VIVEK\.gradle\caches\transforms-4\97f0a48f578381f92d614d5da2de97b3\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\VIVEK\.gradle\caches\transforms-4\98553bc97903cf5b86f042d728994365\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\VIVEK\.gradle\caches\transforms-4\98553bc97903cf5b86f042d728994365\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\VIVEK\.gradle\caches\transforms-4\a00e6c44a3111bfcf8042bb9d316e2d6\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\VIVEK\.gradle\caches\transforms-4\a00e6c44a3111bfcf8042bb9d316e2d6\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\VIVEK\.gradle\caches\transforms-4\75ab52f86c344d64277baa57b2af2e28\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\VIVEK\.gradle\caches\transforms-4\75ab52f86c344d64277baa57b2af2e28\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b72881304ee52b27cb1520cab1ed6d62\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b72881304ee52b27cb1520cab1ed6d62\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\83c434178d2519cf7554be1e5ff3996c\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\83c434178d2519cf7554be1e5ff3996c\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1c62dc3ae44de01fe28d6e71f0b28909\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1c62dc3ae44de01fe28d6e71f0b28909\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\VIVEK\.gradle\caches\transforms-4\3fcba5235e0cac9e8a5b87ece8bb3c0f\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\VIVEK\.gradle\caches\transforms-4\3fcba5235e0cac9e8a5b87ece8bb3c0f\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\VIVEK\.gradle\caches\transforms-4\3027c751ff9091ddeda809edf1a70ac6\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\VIVEK\.gradle\caches\transforms-4\3027c751ff9091ddeda809edf1a70ac6\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\d0057e5fcb635f2b99a3d268435335db\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\d0057e5fcb635f2b99a3d268435335db\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\85fabc075a1be090a78cb939ba5b4ede\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\85fabc075a1be090a78cb939ba5b4ede\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\7edbc4bd7d56091bc59069280d85105c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\7edbc4bd7d56091bc59069280d85105c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\0ffb857d70d034d6dd8b2d6e52bf6a66\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\0ffb857d70d034d6dd8b2d6e52bf6a66\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\4775f08ff510c717a80193e45f5c5cd3\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\4775f08ff510c717a80193e45f5c5cd3\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\a49d55c3e94d73a84b68b88239619cef\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\a49d55c3e94d73a84b68b88239619cef\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\fe1e303e0772b62c6c14c14abd8e2268\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\fe1e303e0772b62c6c14c14abd8e2268\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\VIVEK\.gradle\caches\transforms-4\e495b4d8eaf2a0cabb9a15b7a9b0eb5f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\VIVEK\.gradle\caches\transforms-4\e495b4d8eaf2a0cabb9a15b7a9b0eb5f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\a22abf7e1bf9b0c7f29696af67cf9114\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\a22abf7e1bf9b0c7f29696af67cf9114\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\558b092a8138d4da46ad7df99b78cc7e\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\558b092a8138d4da46ad7df99b78cc7e\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\7279bfc339751db0c7fb01e73e1a3b44\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\7279bfc339751db0c7fb01e73e1a3b44\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\8cc5716527afad049d9897fe4e02221b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\8cc5716527afad049d9897fe4e02221b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\3e5f1d5598d36f12fd15c23d7d02cfb6\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\3e5f1d5598d36f12fd15c23d7d02cfb6\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\28dd466c52372e7ca06eb4a9baa62759\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\28dd466c52372e7ca06eb4a9baa62759\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b8c4b080aaafd446a7236e79da7e1e5\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b8c4b080aaafd446a7236e79da7e1e5\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\VIVEK\.gradle\caches\transforms-4\06f60eea37f993cf6ba2399b99bca753\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\VIVEK\.gradle\caches\transforms-4\06f60eea37f993cf6ba2399b99bca753\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\df05427b895ad27ec0fcb2402696d258\transformed\core-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\df05427b895ad27ec0fcb2402696d258\transformed\core-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\5f073209ed4223241c07651ae133e6f3\transformed\core-ktx-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\5f073209ed4223241c07651ae133e6f3\transformed\core-ktx-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\9d59ef9b49fcf7ce1566a3bd26059d77\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\9d59ef9b49fcf7ce1566a3bd26059d77\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\VIVEK\.gradle\caches\transforms-4\e079e203d121f3fd3eeaaff9534b3bbf\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\VIVEK\.gradle\caches\transforms-4\e079e203d121f3fd3eeaaff9534b3bbf\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\0ba8dca380c23533e1eb2a5adba4cdbb\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\0ba8dca380c23533e1eb2a5adba4cdbb\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\e7a24163e396e058c9e01bfad751fb19\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\e7a24163e396e058c9e01bfad751fb19\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\7bbfe522e2776561e8b0e2649536f720\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\7bbfe522e2776561e8b0e2649536f720\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\cff93e5dc8a50bd4ad77629de8f59e46\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\cff93e5dc8a50bd4ad77629de8f59e46\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\dca7c2447dbe026b845c6d9d3616635d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\dca7c2447dbe026b845c6d9d3616635d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\VIVEK\.gradle\caches\transforms-4\d5a5e8c3a3948ecaf71dd1b87dfa7d8d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\VIVEK\.gradle\caches\transforms-4\d5a5e8c3a3948ecaf71dd1b87dfa7d8d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\VIVEK\.gradle\caches\transforms-4\da91a734f1bca6f6009a6e9a1d26745c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\VIVEK\.gradle\caches\transforms-4\da91a734f1bca6f6009a6e9a1d26745c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6500d915b45a5fee9e14d31dfe40cb81\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6500d915b45a5fee9e14d31dfe40cb81\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\cf2a9fd0d43127bef96110a714bd13bd\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\cf2a9fd0d43127bef96110a714bd13bd\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\02c7252b26e3981bd302b3fc43b3c15c\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\02c7252b26e3981bd302b3fc43b3c15c\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\02281eac68ab44f6e52ab295a0b23ec3\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\02281eac68ab44f6e52ab295a0b23ec3\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1f4d5e981f9acf255dffad6133c61d71\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1f4d5e981f9acf255dffad6133c61d71\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6ca63eeb09b5ee49006ba2d614cd04eb\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6ca63eeb09b5ee49006ba2d614cd04eb\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\53ece760cd099214d61b2efb438a9c28\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\53ece760cd099214d61b2efb438a9c28\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\VIVEK\.gradle\caches\transforms-4\cfb30e0fd780acfb8000dace9da7d9b8\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\VIVEK\.gradle\caches\transforms-4\cfb30e0fd780acfb8000dace9da7d9b8\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\VIVEK\.gradle\caches\transforms-4\03b7dde63c08a7f0ad4704e6ff4bb34b\transformed\core-common-2.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\VIVEK\.gradle\caches\transforms-4\03b7dde63c08a7f0ad4704e6ff4bb34b\transformed\core-common-2.0.3\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\VIVEK\AndroidStudioProjects\job-portal\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\9c2bc36e5140030ac407730adf079c51\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b29b465e60ffdf835600c780fa919f3c\transformed\firebase-auth-ktx-23.1.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth-ktx:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b29b465e60ffdf835600c780fa919f3c\transformed\firebase-auth-ktx-23.1.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c0c96b78cbe91807e7fe6fc7306adf2e\transformed\firebase-database-21.0.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c0c96b78cbe91807e7fe6fc7306adf2e\transformed\firebase-database-21.0.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b774a05fb1fc2dc7e1e6d35be4f9f03\transformed\firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b774a05fb1fc2dc7e1e6d35be4f9f03\transformed\firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\88a8944266f5229635ad275b344473bd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\88a8944266f5229635ad275b344473bd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c91a08e88c65982bac1156e289662769\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c91a08e88c65982bac1156e289662769\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\9c2bc36e5140030ac407730adf079c51\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c91a08e88c65982bac1156e289662769\transformed\firebase-common-21.0.0\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c91a08e88c65982bac1156e289662769\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\9c2bc36e5140030ac407730adf079c51\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:10:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseLegacyRegistrar
+ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\9c2bc36e5140030ac407730adf079c51\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\9c2bc36e5140030ac407730adf079c51\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\9c2bc36e5140030ac407730adf079c51\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:13:17-127
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthLegacyRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b29b465e60ffdf835600c780fa919f3c\transformed\firebase-auth-ktx-23.1.0\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b29b465e60ffdf835600c780fa919f3c\transformed\firebase-auth-ktx-23.1.0\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\b29b465e60ffdf835600c780fa919f3c\transformed\firebase-auth-ktx-23.1.0\AndroidManifest.xml:12:17-119
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c0c96b78cbe91807e7fe6fc7306adf2e\transformed\firebase-database-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c0c96b78cbe91807e7fe6fc7306adf2e\transformed\firebase-database-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b774a05fb1fc2dc7e1e6d35be4f9f03\transformed\firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b774a05fb1fc2dc7e1e6d35be4f9f03\transformed\firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8297cbecc767ab1186b6293e0ed78eda\transformed\play-services-measurement-impl-22.1.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8297cbecc767ab1186b6293e0ed78eda\transformed\play-services-measurement-impl-22.1.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\be6f6807c1967d4488990aa533072a67\transformed\play-services-measurement-sdk-api-22.1.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\be6f6807c1967d4488990aa533072a67\transformed\play-services-measurement-sdk-api-22.1.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\3931978b2da7b6a243237a494c4b79c2\transformed\recaptcha-18.5.1\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\3931978b2da7b6a243237a494c4b79c2\transformed\recaptcha-18.5.1\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c0c96b78cbe91807e7fe6fc7306adf2e\transformed\firebase-database-21.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c0c96b78cbe91807e7fe6fc7306adf2e\transformed\firebase-database-21.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b774a05fb1fc2dc7e1e6d35be4f9f03\transformed\firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b774a05fb1fc2dc7e1e6d35be4f9f03\transformed\firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8297cbecc767ab1186b6293e0ed78eda\transformed\play-services-measurement-impl-22.1.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8297cbecc767ab1186b6293e0ed78eda\transformed\play-services-measurement-impl-22.1.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\be6f6807c1967d4488990aa533072a67\transformed\play-services-measurement-sdk-api-22.1.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\be6f6807c1967d4488990aa533072a67\transformed\play-services-measurement-sdk-api-22.1.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\3931978b2da7b6a243237a494c4b79c2\transformed\recaptcha-18.5.1\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\3931978b2da7b6a243237a494c4b79c2\transformed\recaptcha-18.5.1\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8297cbecc767ab1186b6293e0ed78eda\transformed\play-services-measurement-impl-22.1.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8297cbecc767ab1186b6293e0ed78eda\transformed\play-services-measurement-impl-22.1.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\be6f6807c1967d4488990aa533072a67\transformed\play-services-measurement-sdk-api-22.1.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\be6f6807c1967d4488990aa533072a67\transformed\play-services-measurement-sdk-api-22.1.2\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8297cbecc767ab1186b6293e0ed78eda\transformed\play-services-measurement-impl-22.1.2\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8297cbecc767ab1186b6293e0ed78eda\transformed\play-services-measurement-impl-22.1.2\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6b05c0f687cd2bd04159111d94ab506c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6b05c0f687cd2bd04159111d94ab506c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\be6f6807c1967d4488990aa533072a67\transformed\play-services-measurement-sdk-api-22.1.2\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\be6f6807c1967d4488990aa533072a67\transformed\play-services-measurement-sdk-api-22.1.2\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\be6f6807c1967d4488990aa533072a67\transformed\play-services-measurement-sdk-api-22.1.2\AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\be6f6807c1967d4488990aa533072a67\transformed\play-services-measurement-sdk-api-22.1.2\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\be6f6807c1967d4488990aa533072a67\transformed\play-services-measurement-sdk-api-22.1.2\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\be6f6807c1967d4488990aa533072a67\transformed\play-services-measurement-sdk-api-22.1.2\AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:27:22-79
+property#android.adservices.AD_SERVICES_CONFIG
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:30:9-32:61
+	android:resource
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:31:13-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:37:13-39:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\5cf766c391a26b02297abaebece80d26\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:38:17-139
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c0c96b78cbe91807e7fe6fc7306adf2e\transformed\firebase-database-21.0.0\AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c0c96b78cbe91807e7fe6fc7306adf2e\transformed\firebase-database-21.0.0\AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c0c96b78cbe91807e7fe6fc7306adf2e\transformed\firebase-database-21.0.0\AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c0c96b78cbe91807e7fe6fc7306adf2e\transformed\firebase-database-21.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c0c96b78cbe91807e7fe6fc7306adf2e\transformed\firebase-database-21.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c0c96b78cbe91807e7fe6fc7306adf2e\transformed\firebase-database-21.0.0\AndroidManifest.xml:33:17-109
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\VIVEK\.gradle\caches\transforms-4\6d54e583e99aeebc0b1a4f3b81235ddd\transformed\firebase-auth-23.1.0\AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b774a05fb1fc2dc7e1e6d35be4f9f03\transformed\firebase-installations-18.0.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b774a05fb1fc2dc7e1e6d35be4f9f03\transformed\firebase-installations-18.0.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b774a05fb1fc2dc7e1e6d35be4f9f03\transformed\firebase-installations-18.0.0\AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b774a05fb1fc2dc7e1e6d35be4f9f03\transformed\firebase-installations-18.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b774a05fb1fc2dc7e1e6d35be4f9f03\transformed\firebase-installations-18.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1b774a05fb1fc2dc7e1e6d35be4f9f03\transformed\firebase-installations-18.0.0\AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\88a8944266f5229635ad275b344473bd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\88a8944266f5229635ad275b344473bd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\88a8944266f5229635ad275b344473bd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\VIVEK\.gradle\caches\transforms-4\0f10f755126a39c6dcd5633b76ef6a12\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:35:13-76
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8297cbecc767ab1186b6293e0ed78eda\transformed\play-services-measurement-impl-22.1.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\8297cbecc767ab1186b6293e0ed78eda\transformed\play-services-measurement-impl-22.1.2\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] C:\Users\VIVEK\.gradle\caches\transforms-4\0016f45bc08d4ff89b2f2083e90e5d26\transformed\play-services-measurement-22.1.2\AndroidManifest.xml:40:13-87
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c91a08e88c65982bac1156e289662769\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c91a08e88c65982bac1156e289662769\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c91a08e88c65982bac1156e289662769\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c91a08e88c65982bac1156e289662769\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c91a08e88c65982bac1156e289662769\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c91a08e88c65982bac1156e289662769\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c91a08e88c65982bac1156e289662769\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c91a08e88c65982bac1156e289662769\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c91a08e88c65982bac1156e289662769\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c262c74324fbfbaf14950eec43ffef3d\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c262c74324fbfbaf14950eec43ffef3d\transformed\play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c262c74324fbfbaf14950eec43ffef3d\transformed\play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c262c74324fbfbaf14950eec43ffef3d\transformed\play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c262c74324fbfbaf14950eec43ffef3d\transformed\play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c262c74324fbfbaf14950eec43ffef3d\transformed\play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c262c74324fbfbaf14950eec43ffef3d\transformed\play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c262c74324fbfbaf14950eec43ffef3d\transformed\play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c262c74324fbfbaf14950eec43ffef3d\transformed\play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\VIVEK\.gradle\caches\transforms-4\c262c74324fbfbaf14950eec43ffef3d\transformed\play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\3931978b2da7b6a243237a494c4b79c2\transformed\recaptcha-18.5.1\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\VIVEK\.gradle\caches\transforms-4\3931978b2da7b6a243237a494c4b79c2\transformed\recaptcha-18.5.1\AndroidManifest.xml:9:22-95
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\VIVEK\.gradle\caches\transforms-4\97f0a48f578381f92d614d5da2de97b3\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\VIVEK\.gradle\caches\transforms-4\97f0a48f578381f92d614d5da2de97b3\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\VIVEK\.gradle\caches\transforms-4\97f0a48f578381f92d614d5da2de97b3\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\VIVEK\.gradle\caches\transforms-4\97f0a48f578381f92d614d5da2de97b3\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\VIVEK\.gradle\caches\transforms-4\75ab52f86c344d64277baa57b2af2e28\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\VIVEK\.gradle\caches\transforms-4\75ab52f86c344d64277baa57b2af2e28\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\VIVEK\.gradle\caches\transforms-4\75ab52f86c344d64277baa57b2af2e28\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:24:13-50
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1c62dc3ae44de01fe28d6e71f0b28909\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1c62dc3ae44de01fe28d6e71f0b28909\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\VIVEK\.gradle\caches\transforms-4\1c62dc3ae44de01fe28d6e71f0b28909\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\fe1e303e0772b62c6c14c14abd8e2268\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\VIVEK\.gradle\caches\transforms-4\e079e203d121f3fd3eeaaff9534b3bbf\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\VIVEK\.gradle\caches\transforms-4\e079e203d121f3fd3eeaaff9534b3bbf\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\VIVEK\.gradle\caches\transforms-4\da91a734f1bca6f6009a6e9a1d26745c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\VIVEK\.gradle\caches\transforms-4\da91a734f1bca6f6009a6e9a1d26745c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\fe1e303e0772b62c6c14c14abd8e2268\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\fe1e303e0772b62c6c14c14abd8e2268\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\fe1e303e0772b62c6c14c14abd8e2268\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\fe1e303e0772b62c6c14c14abd8e2268\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\fe1e303e0772b62c6c14c14abd8e2268\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\fe1e303e0772b62c6c14c14abd8e2268\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\VIVEK\.gradle\caches\transforms-4\fe1e303e0772b62c6c14c14abd8e2268\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\df05427b895ad27ec0fcb2402696d258\transformed\core-1.10.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\df05427b895ad27ec0fcb2402696d258\transformed\core-1.10.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\df05427b895ad27ec0fcb2402696d258\transformed\core-1.10.0\AndroidManifest.xml:23:9-81
+permission#com.example.madp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\df05427b895ad27ec0fcb2402696d258\transformed\core-1.10.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\df05427b895ad27ec0fcb2402696d258\transformed\core-1.10.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\df05427b895ad27ec0fcb2402696d258\transformed\core-1.10.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\df05427b895ad27ec0fcb2402696d258\transformed\core-1.10.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\df05427b895ad27ec0fcb2402696d258\transformed\core-1.10.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.madp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\df05427b895ad27ec0fcb2402696d258\transformed\core-1.10.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.0] C:\Users\VIVEK\.gradle\caches\transforms-4\df05427b895ad27ec0fcb2402696d258\transformed\core-1.10.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\VIVEK\.gradle\caches\transforms-4\e079e203d121f3fd3eeaaff9534b3bbf\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\VIVEK\.gradle\caches\transforms-4\e079e203d121f3fd3eeaaff9534b3bbf\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\VIVEK\.gradle\caches\transforms-4\e079e203d121f3fd3eeaaff9534b3bbf\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\VIVEK\.gradle\caches\transforms-4\03b7dde63c08a7f0ad4704e6ff4bb34b\transformed\core-common-2.0.3\AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\VIVEK\.gradle\caches\transforms-4\03b7dde63c08a7f0ad4704e6ff4bb34b\transformed\core-common-2.0.3\AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\VIVEK\.gradle\caches\transforms-4\03b7dde63c08a7f0ad4704e6ff4bb34b\transformed\core-common-2.0.3\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\VIVEK\.gradle\caches\transforms-4\03b7dde63c08a7f0ad4704e6ff4bb34b\transformed\core-common-2.0.3\AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\VIVEK\.gradle\caches\transforms-4\03b7dde63c08a7f0ad4704e6ff4bb34b\transformed\core-common-2.0.3\AndroidManifest.xml:15:13-93

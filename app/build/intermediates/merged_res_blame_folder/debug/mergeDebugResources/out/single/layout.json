@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-mergeDebugResources-39:\\layout\\activity_apply_job3.xml",
+        "source": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-main-42:\\layout\\activity_apply_job3.xml"
+    },
+    {
+        "merged": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-mergeDebugResources-39:\\layout\\activity_payment1.xml",
+        "source": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-main-42:\\layout\\activity_payment1.xml"
+    },
+    {
+        "merged": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-mergeDebugResources-39:\\layout\\activity_apply_job2.xml",
+        "source": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-main-42:\\layout\\activity_apply_job2.xml"
+    },
+    {
+        "merged": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-mergeDebugResources-39:\\layout\\activity_post1.xml",
+        "source": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-main-42:\\layout\\activity_post1.xml"
+    },
+    {
+        "merged": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-mergeDebugResources-39:\\layout\\activity_post3.xml",
+        "source": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-main-42:\\layout\\activity_post3.xml"
+    },
+    {
+        "merged": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-mergeDebugResources-39:\\layout\\activity_payment2.xml",
+        "source": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-main-42:\\layout\\activity_payment2.xml"
+    },
+    {
+        "merged": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-mergeDebugResources-39:\\layout\\activity_edit_payment.xml",
+        "source": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-main-42:\\layout\\activity_edit_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-mergeDebugResources-39:\\layout\\activity_register1.xml",
+        "source": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-main-42:\\layout\\activity_register1.xml"
+    },
+    {
+        "merged": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-mergeDebugResources-39:\\layout\\activity_edit.xml",
+        "source": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-main-42:\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-mergeDebugResources-39:\\layout\\activity_register2.xml",
+        "source": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-main-42:\\layout\\activity_register2.xml"
+    },
+    {
+        "merged": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-mergeDebugResources-39:\\layout\\activity_apply_job1.xml",
+        "source": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-main-42:\\layout\\activity_apply_job1.xml"
+    },
+    {
+        "merged": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-mergeDebugResources-39:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-main-42:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-mergeDebugResources-39:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-main-42:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-mergeDebugResources-39:\\layout\\activity_post_edit.xml",
+        "source": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-main-42:\\layout\\activity_post_edit.xml"
+    },
+    {
+        "merged": "com.example.madp.app-mergeDebugResources-39:/layout/activity_dashboard.xml",
+        "source": "com.example.madp.app-main-42:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-mergeDebugResources-39:\\layout\\activity_apply_job_edit.xml",
+        "source": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-main-42:\\layout\\activity_apply_job_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-mergeDebugResources-39:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-mergeDebugResources-39:\\layout\\activity_post2.xml",
+        "source": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-main-42:\\layout\\activity_post2.xml"
+    },
+    {
+        "merged": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-mergeDebugResources-39:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\VIVEK\\.gradle\\daemon\\8.7\\com.example.madp.app-main-42:\\layout\\activity_profile.xml"
+    }
+]

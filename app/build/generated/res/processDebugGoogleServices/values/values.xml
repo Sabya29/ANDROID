@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">623220894273</string>
+    <string name="google_api_key" translatable="false">AIzaSyDSflDAsG2QUdSI7tJw-ruL-OmCKNv3GA0</string>
+    <string name="google_app_id" translatable="false">1:623220894273:android:cbd031a33d13360c4834c0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDSflDAsG2QUdSI7tJw-ruL-OmCKNv3GA0</string>
+    <string name="google_storage_bucket" translatable="false">job-portal-app-a8884.firebasestorage.app</string>
+    <string name="project_id" translatable="false">job-portal-app-a8884</string>
+</resources>
